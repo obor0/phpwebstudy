@@ -1,6 +1,6 @@
-##buki
-- GET /api/bukisystem
-- GET /api/bukisystem/1
-- POST /api/bukisystem
-- PUT /api/bukisystem/1
-- DELETE /api/bukisystem/1
+## buki
+- GET /api/bukisystems
+- GET /api/bukisystems/1
+- POST /api/bukisystems
+- PUT /api/bukisystems/1
+- DELETE /api/bukisystems/1
